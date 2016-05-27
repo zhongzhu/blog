@@ -11,7 +11,7 @@ categories:
 - APP开发
 - 游戏
 ---
-[上一篇博客](http://zhongzhu.github.io/2016/03/28/%E7%94%A8Phaser%E5%92%8CPhoneGap%E6%9D%A5%E5%BC%80%E5%8F%91iOS%E5%92%8CAndroid%E6%B8%B8%E6%88%8F-4-Phaser%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/)讲在Play.preload()中把游戏需要的资源（图片，tile map文件等等）加载到内存中，今天我们将把内存中的资源显示到手机浏览器屏幕上。也就是说，今天我们终于可以看到我们的游戏界面了。(TP:FB6E4FA1)
+[上一篇博客](http://zhongzhu.github.io/2016/03/28/%E7%94%A8Phaser%E5%92%8CPhoneGap%E6%9D%A5%E5%BC%80%E5%8F%91iOS%E5%92%8CAndroid%E6%B8%B8%E6%88%8F-4-Phaser%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/)讲在Play.preload()中把游戏需要的资源（图片，tile map文件等等）加载到内存中，今天我们将把内存中的资源显示到手机浏览器屏幕上。也就是说，今天我们终于可以看到我们的游戏界面了。
 
 下面用到的所有图片和代码都可以在[我的GitHub](https://github.com/zhongzhu/learn_to_build_a_game_with_phaser.git)找到。
 
